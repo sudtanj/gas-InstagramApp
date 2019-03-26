@@ -29,6 +29,13 @@ function run(){
 }
 ```
 
+
+Screenshot
+------------
+Here is the comparison between request at saveig and from the library
+![result in saveIG](https://github.com/sudtanj/gas-InstagramApp/raw/master/Screenshot/screenshot.png){:height="50%" width="50%"}
+![result in library](https://raw.githubusercontent.com/sudtanj/gas-InstagramApp/master/Screenshot/2c803c1de11e44dd6f9a8c161cd6d68b.png)
+
 Depedencies
 ------------
 1. SaveIG - https://saveig.com/
