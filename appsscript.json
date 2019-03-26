@@ -1,0 +1,14 @@
+{
+  "timeZone": "Asia/Bangkok",
+  "dependencies": {
+    "libraries": [{
+      "userSymbol": "Cheerio",
+      "libraryId": "1ReeQ6WO8kKNxoaA_O0XEQ589cIrRvEBA9qcWpNqdOP17i47u6N9M5Xh0",
+      "version": "10"
+    }]
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "executionApi": {
+    "access": "ANYONE"
+  }
+}
