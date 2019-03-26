@@ -1,5 +1,5 @@
 # InstagramApp
-Instagram images API for Google Apps scripts
+Instagram images API for Google Apps scripts to download images and video 
 
 Adding the library to your project
 ----------------------------------
