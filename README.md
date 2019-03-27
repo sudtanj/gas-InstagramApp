@@ -39,6 +39,7 @@ Here is the comparison between request at saveig and from the library
 Depedencies
 ------------
 1. SaveIG - https://saveig.com/
+2. Cheerio - https://github.com/ta2gch/cheeriogs
 
 License
 -------
