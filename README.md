@@ -1,4 +1,4 @@
-# InstagramApp
+# InstagramApp <span class="badge-patreon"><a href="https://patreon.com/sudtanj" title="Donate to this project using Patreon"><img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a></span>
 Instagram images API for Google Apps scripts to download images and video 
 
 Adding the library to your project
